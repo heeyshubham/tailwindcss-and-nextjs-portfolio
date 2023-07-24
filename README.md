@@ -2,7 +2,8 @@
 
 This is a template for creating a portfolio with Tailwind CSS and Next.js.
 
-![Portfolio Demo](demo/demo.gif)
+<img width="1440" alt="image" src="https://github.com/heeyshubham/tailwindcss-and-nextjs-portfolio/assets/55744455/da38834f-711d-4326-859a-d8ee69b0da5e">
+
 
 ## How it works
 
